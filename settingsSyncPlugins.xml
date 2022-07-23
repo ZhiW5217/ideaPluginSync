@@ -13,17 +13,6 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="IdeaVIM">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
         <entry key="Pythonid">
           <value>
             <PluginData>
@@ -31,29 +20,6 @@
                 <set>
                   <option value="com.intellij.modules.python-pro-capable" />
                   <option value="com.intellij.modules.ultimate" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="SnakeYAML plugin">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="YAML/Ansible support">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
@@ -71,36 +37,9 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="cn.haojiyou.CodeGlance3">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
         <entry key="cn.yiiguxing.plugin.translate">
           <value>
             <PluginData />
-          </value>
-        </entry>
-        <entry key="com.alibaba.p3c.smartfox">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                  <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.modules.vcs" />
-                  <option value="com.intellij.modules.xdebugger" />
-                  <option value="com.intellij.modules.xml" />
-                </set>
-              </option>
-            </PluginData>
           </value>
         </entry>
         <entry key="com.elliotwaite.godot_theme">
@@ -115,9 +54,20 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.intellij.swagger">
+        <entry key="com.intellij.plugins.thrift">
           <value>
-            <PluginData />
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                  <option value="com.intellij.modules.xdebugger" />
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
           </value>
         </entry>
         <entry key="com.intellij.zh">
@@ -144,21 +94,14 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="com.nasller.CodeGlancePro">
+        <entry key="dev.ngocta.pycharm-odoo">
           <value>
             <PluginData>
               <option name="dependencies">
                 <set>
-                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.python" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="io.codearte.props2yaml">
-          <value>
-            <PluginData>
               <option name="enabled" value="false" />
             </PluginData>
           </value>
@@ -181,20 +124,6 @@
               <option name="dependencies">
                 <set>
                   <option value="com.intellij.modules.platform" />
-                </set>
-              </option>
-            </PluginData>
-          </value>
-        </entry>
-        <entry key="me.jinghong.restful.toolkit">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.platform" />
-                  <option value="com.intellij.properties" />
-                  <option value="org.jetbrains.kotlin" />
-                  <option value="org.jetbrains.plugins.yaml" />
                 </set>
               </option>
             </PluginData>
@@ -223,37 +152,9 @@
             </PluginData>
           </value>
         </entry>
-        <entry key="net.vektah.codeglance2">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-              <option name="enabled" value="false" />
-            </PluginData>
-          </value>
-        </entry>
         <entry key="org.jetbrains.plugins.vue">
           <value>
             <PluginData />
-          </value>
-        </entry>
-        <entry key="org.jetbrains.plugins.yaml">
-          <value>
-            <PluginData />
-          </value>
-        </entry>
-        <entry key="org.rust.lang">
-          <value>
-            <PluginData>
-              <option name="dependencies">
-                <set>
-                  <option value="com.intellij.modules.lang" />
-                </set>
-              </option>
-            </PluginData>
           </value>
         </entry>
       </map>

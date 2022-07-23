@@ -3,19 +3,26 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="http://jira.ver.cn:8091" />
-          <option name="userName" value="zhenglinchao" />
+          <option name="url" value="http://jira.ver.cn:8091/kmoke/kmoke_electron.git" />
+          <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/luin/medis.git" />
+          <option name="url" value="http://jira.ver.cn:8091" />
+          <option name="userName" value="zhangzhiwei" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="jira.ver.cn:8091/kmoke/kmoke_electron.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/luqiming666/AutoUpdater-nsis.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Work" />
+    <option name="cloneParentDir" value="$USER_HOME$/Code/work" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
     <option name="COLUMN_ID_ORDER">
       <list>
         <option value="Default.Root" />

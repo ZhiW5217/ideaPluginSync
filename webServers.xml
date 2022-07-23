@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1ff539c-5b1d-4e50-affb-95148488417d" name="test serve">
+        <fileTransfer rootFolder="/www/wwwroot/kmoke-test.ver.cn/download/mac" accessType="SFTP" host="223.93.134.18" port="2223" sshConfigId="ccf6567f-aff5-4ce2-8f6e-dcf72a6510bd" sshConfig="root@223.93.134.18:2223 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
